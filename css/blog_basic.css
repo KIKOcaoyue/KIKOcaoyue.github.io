@@ -156,7 +156,7 @@ figure.highlight.cpp .code:after {
 }
 
 pre {
-  color: #000000!important
+  color: #525252!important
 }
 
 pre .function .keyword,pre .constant {
@@ -456,13 +456,13 @@ dl dt {
                       padding: 0; }
                       #fb_comments_container #fb_comments .comment .comment_body .author b,
                       #fb_comments_container #fb_comments .comment .c_content .author b {
-                        color: #000000; }
+                        color: #555; }
                         #fb_comments_container #fb_comments .comment .comment_body .author small,
                         #fb_comments_container #fb_comments .comment .c_content .author small {
                           font-weight: normal;
                           padding-left: 10px;
                           font-size: 0.7em;
-                          color: #000000; }
+                          color: #666; }
 
 #fb_new_comment {
   padding-bottom: 50px; }
